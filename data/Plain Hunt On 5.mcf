@@ -1,0 +1,17 @@
+[INFO]
+name=Plain Hunt On 5
+bells=5
+type=MC ; Method Data (MD) or Method Configuration (MC)
+coverable=Yes
+
+[TRACKS]
+1:2 3 4 5 5 4 3 2 1 1
+2:1 1 2 3 4 5 5 4 3 2
+3:4 5 5 4 3 2 1 1 2 3
+4:3 2 1 1 2 3 4 5 5 4
+5:5 4 3 2 1 1 2 3 4 5
+
+[EXTENT-1]
+NAME:One Course
+LENGTH:10
+DEFINITION:P

@@ -1,0 +1,96 @@
+[INFO]
+name=Reverse Canterbury Doubles
+bells=5
+type=MC ; Method Data (MD) or Method Configuration (MC)
+coverable=Yes
+
+[TRACKS]
+1:2 3 4 5 5 4 3 2
+2:1 1 2 3 4 5 5 4
+3:3 2 1 1 2 3 4 5
+4:4 5 5 4 3 2 1 1
+5:5 4 3 2 1 1 2 3
+
+[PLAIN]
+1:2 2
+2:1 1
+3:3 4
+4:4 3
+5:5 5
+
+[BOB]
+# Instead of make 2nds: Make 3rds, back to lead, then 4 behind next
+1:2 3
+# Treble, carry on hunting
+2:1 1
+# Instead of 3-4 up: Make 3rds, back to lead, then 3-4 down next
+3:3 2
+# Instead of 3-4 down: 4 blows in 4th, to the back, then 2nds next
+4:4 4
+# Doing 4 blows behind, unaffected
+5:5 5
+
+[EXTENT-1]
+NAME:Plain Course
+LENGTH:40
+DEFINITION:PPPP
+
+[EXTENT-2]
+NAME:Touch of 120 with 2 unaffected
+LENGTH:120
+DEFINITION:PBPP PBPP PBPP
+
+[EXTENT-3]
+NAME:Touch of 120 with 3 unaffected
+LENGTH:120
+DEFINITION:PPBP PPBP PPBP
+
+[EXTENT-4]
+NAME:Touch of 120 with 4 unaffected
+LENGTH:120
+DEFINITION:BPPP BPPP BPPP
+
+[EXTENT-5]
+NAME:Touch of 120 with 5 unaffected
+LENGTH:120
+DEFINITION:PPPB PPPB PPPB
+
+[EXTENT-6]
+NAME:Touch of 120
+LENGTH:120
+DEFINITION:PB PPB PPB PPB P
+
+[EXTENT-7]
+NAME:Touch of 60 with 4 bobbing
+LENGTH:60
+DEFINITION:PBPBPB
+
+[EXTENT-8]
+NAME:Touch of 40 with 4 Bobs
+LENGTH:40
+DEFINITION:BBBB
+
+[EXTENT-9]
+NAME:Touch of 100 PBPPB x 2
+LENGTH:100
+DEFINITION:PBPPB PBPPB
+
+[EXTENT-10]
+NAME:Touch of 100 PBB x 3 P
+LENGTH:100
+DEFINITION:PBB PBB PBB P
+
+[EXTENT-11]
+NAME:Touch of 180
+LENGTH:180
+DEFINITION:PBPBPP PBPBPP PBPBPP
+
+[EXTENT-12]
+NAME:Touch of 120 Singles
+LENGTH:120
+DEFINITION:PPPS PPPS PPPS
+
+[EXTENT-13]
+NAME:Quarter
+LENGTH:1260
+DEFINITION:PBPPB PBPPB PPPB PPPB PPPB PPBP PPBP PPBP PBPP PBPP PBPP BPPP BPPP BPPP PBPPB PBPPB PPPB PPPB PPPB PPBP PPBP PPBP PBPP PBPP PBPP BPPP BPPP BPPP PBPPB PBPPB

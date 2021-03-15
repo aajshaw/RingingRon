@@ -1,0 +1,48 @@
+[INFO]
+name=Bastow Little Bob Minor
+bells=6
+#extents=11
+type=MC ; Method Data (MD) or Method Configuration (MC)
+coverable=No
+
+[TRACKS]
+1:2 2 1
+2:1 1 2
+3:4 3 4
+4:3 4 3
+5:6 5 6
+6:5 6 5
+
+[PLAIN]
+1:1
+2:3
+3:2
+4:5
+5:4
+6:6
+
+[BOB]
+1:1
+2:3
+3:2
+4:4
+5:6
+6:5
+
+[SINGLE]
+1:1
+2:3
+3:2
+4:4
+5:5
+6:6
+
+[EXTENT-1]
+NAME:Plain Course
+LENGTH:20
+DEFINITION:PPPPP
+
+[EXTENT-2]
+NAME:Touch of 60
+LENGTH:60
+DEFINITION:PPPBP PPPBP PPPBP

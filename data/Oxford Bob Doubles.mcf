@@ -1,0 +1,23 @@
+[INFO]
+name=Oxford Bob Doubles
+bells=5
+type=MC ; Method Data (MD) or Method Configuration (MC)
+coverable=Yes
+
+[TRACKS]
+1:2 3 4 5 5 4 3 2 1 1
+2:1 1 2 3 4 5 5 5 5 5
+3:4 4 3 2 1 1 2 3 4 3
+4:3 2 1 1 2 3 4 4 3 4
+5:5 5 5 4 3 2 1 1 2 2
+
+[PLAIN]
+
+[BOB]
+
+[SINGLE]
+
+[EXTENT-1]
+NAME:Plain Course
+LENGTH:20
+DEFINITION:PP

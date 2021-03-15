@@ -1,0 +1,24 @@
+[INFO]
+name=Rounds On 6
+bells=6
+type=MC ; Method Data (MD) or Method Configuration (MC)
+coverable=No
+
+[TRACKS]
+1:1 1 1 1 1 1 1 1 1 1
+2:2 2 2 2 2 2 2 2 2 2
+3:3 3 3 3 3 3 3 3 3 3
+4:4 4 4 4 4 4 4 4 4 4
+5:5 5 5 5 5 5 5 5 5 5
+6:6 6 6 6 6 6 6 6 6 6
+
+[PLAIN]
+
+[BOB]
+
+[SINGLE]
+
+[EXTENT-1]
+NAME:5 Handstroke and 5 Backstroke
+LENGTH:10
+DEFINITION:P
